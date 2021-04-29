@@ -1,0 +1,10 @@
+node_modules
+public
+.vscode
+
+# secrets and errors
+.env
+.log
+
+# macOS related files
+.DS_Store
